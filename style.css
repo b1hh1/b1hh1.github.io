@@ -107,6 +107,10 @@ main .right-side .links {
     text-align: center;
 }
 
+main .links ul a {
+    color: white;
+}
+
 main .right-side .links ul {
     list-style-type: none;
 }
